@@ -29,3 +29,4 @@ A lot of problems.
 * Player stuck in ground
 * Score sometimes do not disappear
 * Koopa shell being kicked multiple times at one stomp
+* Awful coding style
