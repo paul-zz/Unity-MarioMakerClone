@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Coin
+  - Enemy
+  - Breakable
+  - Mushroom
+  - QuestionBox
+  - KoopaTroopa
+  - FireFlower
+  - BulletBill
+  - Beetle
+  - Pipe
+  - Hidden
+  - Bottom
+  - MovingPlatform
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Collectables
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - Player
+  - Transparent Item
+  - BulletBill
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 1648706785
+    locked: 0
+  - name: EnemyAndItem
+    uniqueID: 3519532717
+    locked: 0
+  - name: Player
+    uniqueID: 3259012755
+    locked: 0
+  - name: Blocks
+    uniqueID: 88227973
+    locked: 0
+  - name: Top
+    uniqueID: 78264725
+    locked: 0
